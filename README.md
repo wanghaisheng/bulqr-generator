@@ -1,4 +1,4 @@
-# BulQR Code generate on the client (up to 200 codes 🚀)
+# shopconnan BulQR Code generate on the client (up to 200 codes 🚀)
 
 ![Bulk QR preview](https://user-images.githubusercontent.com/52167824/169137158-3e2a1782-9101-409c-a21b-e14ae3f069f6.png)
 
